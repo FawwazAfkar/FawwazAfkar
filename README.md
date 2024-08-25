@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FawwazAfkar
 - 📫 any inquiries -> fawazafkarr@gmail.com
 
-College acc, personal -> github.com/aledifaver
+College acc, personal -> @aledifaver
 
 <!---
 FawwazAfkar/FawwazAfkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
