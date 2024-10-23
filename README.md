@@ -14,7 +14,7 @@ I am a Informatics Student and software developer with a passion for creating in
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FawwazAfkar&show_icons=true)
+![FawwazAfkar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FawwazAfkar&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=FawwazAfkar)
 
