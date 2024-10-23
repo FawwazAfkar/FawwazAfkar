@@ -1,5 +1,3 @@
-# Hi there, I'm Fawwaz Afkar! 👋
-
 ![Profile Banner](banner.png)
 
 ## About Me
