@@ -1,4 +1,4 @@
-![Profile Banner](banner.png)
+![Profile Banner](github-header-image.png)
 
 ## About Me
 
